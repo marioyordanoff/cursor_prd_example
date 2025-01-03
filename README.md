@@ -1,6 +1,6 @@
 # Documentation Folder Overview
 
-This folder contains all the essential documentation to start a project inn Cursor.
+This folder contains all the essential documentation to start a project in Cursor.
 
 Each file serves a specific purpose in detailing various aspects of the project, from high-level vision to detailed implementation guidelines.
 
