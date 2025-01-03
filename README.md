@@ -12,7 +12,7 @@ Contains the core vision statement, main goals, and a high-level explanation of 
 ### [requirements.md](Documentation/requirements.md)
 Breaks down both what the system needs to do (functional requirements like "users can upload files") and how it needs to perform (technical requirements like "page load under 3 seconds").
 
-### [architecture.md](Documentation/architecture.md)
+### [project-structure.md](Documentation/project-structure.md)
 Outlines the system's blueprint - how different parts connect and communicate, what the database structure looks like, and how data flows through the application.
 
 ### [tech-stack.md](Documentation/tech-stack.md)
